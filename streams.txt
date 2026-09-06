@@ -1,7 +1,7 @@
 ## FORMAT: <channel name> || <channel id> || <category>  
 ## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
-##<category> is used to group streams, so something like 'Music' or 'News' is recommended.
+## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 ##
 ## Examples:
 ## Twitch:
@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=weCEi1NE0C8
 Berita RTM [ LANGSUNG ] 24 JAM || BeritaRTM.yt || siaranMy 
 https://www.youtube.com/watch?v=IOingUow0bo
 
-Nicktoons ||  Nicktoons.yt || Kids
+Nicktoons || Nicktoons.yt || Kids
 https://www.youtube.com/watch?v=0NfBbX-K7_A
 
+YourChannelName || YourChannelID.yt || News
+https://www.youtube.com/watch?v=d8OvbUAxaec
